@@ -280,5 +280,3 @@ commands: [`experiments/03-ellipse-trajectory-tracking/README.md`](experiments/0
 ## License
 
 This project is licensed under the MIT License — see [LICENSE](LICENSE).
-#   - Q u a d r o t o r - S I T L - F l i g h t - M A V R O S - I n t e g r a t i o n - L a b  
- 
